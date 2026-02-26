@@ -71,4 +71,3 @@ expense_tracker/
 - Add date tracking
 - Convert to CSV storage
 - Build a simple GUI version
-- 
